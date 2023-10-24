@@ -34,9 +34,6 @@ python main.py [-h] [-s SITES] [-v VOTES] [-f FOLDER]
 
 The script will generate a CSV file containing the scraped Hacker News posts based on your specified criteria.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
